@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+.overlay {
+    background-color: rgba(21, 24, 36, 0.4);
+    width: 691px;
+    height: 354px;
+
+
+}
+
+.picture {
+    width: 691px;
+    height: 354px;
+    background: url(../img/mount.png) center/cover;
+    position: relative;
+
+}
+
+.text {
+
+    color: beige;
+    font-size: 50px;
+    position: absolute;
+    top: 80%;
+
+}
+
+.wrapper {
+    width: 357px;
+    height: 264px;
+    background: url(../img/Depositphotos_5344901_l-2015-pic4_zoom-1500x1500-48370.jpg)center/cover;
+}
+
+.block1 {
+    width: 100px;
+    height: 50px;
+    background-color: darkgray;
+}
